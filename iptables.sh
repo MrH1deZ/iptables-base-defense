@@ -7,7 +7,7 @@
 ###                               ###
 #####################################
 
-### Vars - You can edit it by your own requirements !
+### Vars - You can edit it by your own requirements!
 EXT_IF="eth0"
 LOCAL_NETS="192.168.0.0/16"
 RESTRICTED_NETS="192.168.0.0/24 192.168.1.1"
@@ -89,4 +89,4 @@ if ! [ -z "$PUBLIC_PORTS" ]; then
     done
 fi
 
-### Custom rules   - Here you can write something spicy, flexi and sexy !
+### Custom rules   - Here you can write something spicy, flexy, and sexy!
